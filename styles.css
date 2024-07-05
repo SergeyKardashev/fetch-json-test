@@ -1,3 +1,19 @@
 body {
   background-color: gray;
 }
+
+td {
+  padding: 4px;
+}
+
+.green-movies {
+  background-color: lightgreen;
+}
+
+.table-wrap {
+  background-color: plum;
+}
+
+.main-table {
+  background-color: peachpuff;
+}
